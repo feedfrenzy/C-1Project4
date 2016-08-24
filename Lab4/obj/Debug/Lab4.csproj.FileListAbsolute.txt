@@ -1,0 +1,23 @@
+c:\users\jie\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.VendingMachine.resources
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Jie\documents\visual studio 2012\Projects\Lab4\Lab4\obj\Debug\Lab4.Transaction.resources
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.Transaction.resources
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.VendingMachine.resources
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Jie\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\Lab 4\Lab4\obj\Debug\Lab4.pdb
